@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>apdu-credit-card-example-java</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/apdu_credit_card/UFrEMV.java</name>
+			<type>1</type>
+			<location>C:/Users/Bojan/eclipse-workspace/apdu-credit-card-example-java/src/apdu_credit_card/UFrEMV.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
